@@ -1,0 +1,135 @@
+img {
+	width: 300px;
+	border-radius: 50%;
+	border: 6px solid white;
+}
+
+body {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 21px;
+	font-weight: 200;
+	margin: 0;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 200;
+	margin: 0 0 30px 0;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 200;
+	margin: 0;
+	border-top: 1px solid #c4c4c4;
+	border-bottom: 1px solid #c4c4c4;
+	padding: 15px 0;
+}
+
+h3 {
+	font-size: 30px;
+	margin: 0;
+}
+
+a {
+	color: #99d930;
+}
+
+a:hover, a:focus, a:active {
+	color: #131313;
+}
+
+p {
+	margin: 0;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+#name {
+	background-color: #252525;
+	padding: 80px 0;
+	color: #fff;
+}
+
+#name-span {
+	font-weight: 500;
+	font-size: 60px;
+	display: block;
+	margin-top: 0;
+	color: #99d930;
+}
+
+#intro {
+	background-color: #fff;
+	padding: 80px 0;
+	color: #252525;
+}
+
+#title-span {
+	font-weight: 500;
+	font-size: 50px;
+	display: block;
+	color: #99d930;
+}
+
+#about {
+	font-size: 16px;
+	margin: 10px 0 0 0;
+}
+
+#work {
+	background-color: #252525;
+	padding: 80px 0;
+	color: #fff;
+}
+
+#project {
+	font-size: 28px;
+	margin: 0 0 10px 0;
+	border-top: 1px solid #c4c4c4;
+	border-bottom: 1px solid #c4c4c4;
+	padding: 15px 0;
+}
+
+#project-span {
+	font-size: 35px;
+	font-weight: 500;
+	display: block;
+	color: #99d930;
+}
+
+#p-link {
+	font-size: 15px;
+	font-weight: 400;
+}
+
+#git {
+	margin: 30px 0 0 0;
+}
+
+.btn {
+	padding: 10px 30px;
+	margin-top: 25px;
+	border: none;
+	background-color: #99d930;
+	color: #252525;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 600;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background-color: #252525;
+	color: #fff;
+}
+
+#work .btn:hover {
+	background-color: #fff;
+	color: #252525;
+}
+
